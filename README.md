@@ -1,5 +1,8 @@
 # wallet
 
+![image](https://user-images.githubusercontent.com/26883843/162512859-2a76fe67-868e-45ef-b62e-92f2cc250554.png)
+
+
 A new Flutter project.
 
 ## Getting Started
